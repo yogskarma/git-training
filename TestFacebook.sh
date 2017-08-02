@@ -1,3 +1,5 @@
 TestFacebook()
 
 TestLogin()
+
+TestLogOut()

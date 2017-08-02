@@ -5,3 +5,11 @@ TestLogin()
 TestLogOut()
 
 TestProfilePhoto()
+
+TestCoverphoto()
+
+TestStatus()
+
+
+
+

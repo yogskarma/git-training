@@ -3,3 +3,5 @@ TestFacebook()
 TestLogin()
 
 TestLogOut()
+
+TestProfilePhoto()

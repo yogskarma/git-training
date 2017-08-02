@@ -5,5 +5,3 @@ TestLogin()
 TestLogOut()
 
 TestProfilePhoto()
-
-TestCoverPhoto()

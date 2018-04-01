@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AddCart</title>
+</head>
+<body>
+<<<<<<< HEAD
+<ol  >
+<li>White board</li>
+<li>Pencils</li>
+<li>Markers</li>
+<li>Notebooks</li>	
+<li>Maths Book</li>
+<li>Marathi Book</li>
+</ol>
+
+=======
+	<ol>
+		<li>Blax Board</li>
+		<li>Marker</li>
+		<li>Fruits</li>
+	</ol>
+>>>>>>> 8812a408f8df5be59c0c7da6f12bb1ff56983f62
+</body>
+</html>

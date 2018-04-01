@@ -1,5 +1,5 @@
 public void logout(){
-
+if(session==true){
 Syso("Click on logout button")
-
+}
 }

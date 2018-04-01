@@ -1,0 +1,7 @@
+Public void sub(){
+  int a ,b,c;
+	c=a+b;
+
+
+
+}
